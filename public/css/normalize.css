@@ -37,10 +37,10 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
-h1 {
+/* h1 {
   font-size: 2em;
   margin: 0.67em 0;
-}
+} */
 
 /* Grouping content
    ========================================================================== */
@@ -73,9 +73,9 @@ pre {
  * Remove the gray background on active links in IE 10.
  */
 
-a {
+/* a {
   background-color: transparent;
-}
+} */
 
 /**
  * 1. Remove the bottom border in Chrome 57-
@@ -572,10 +572,10 @@ ul,
 var,
 video {
   margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
+  /* padding: 0;
+  border: 0; */
+  /* font-size: 100%; */
+  /* font: inherit; */
   vertical-align: baseline;
 }
 
@@ -594,7 +594,7 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+  /* display: block; */
 }
 
 body {
